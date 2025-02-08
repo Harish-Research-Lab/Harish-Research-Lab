@@ -12,4 +12,4 @@ At Harish Lab, we push the boundaries of computational science and engineering b
 We are an interdisciplinary team of researchers, engineers, and students dedicated to advancing computational methods. If you are interested in collaborating or learning more about our work, feel free to explore our blog, publications, and projects.
 
 ## Contact us
-CHeck out our website (www.harishlab.com) for more information about us and how to get in touch.
+Check out our website (www.harishlab.com) for more information about us and how to get in touch.
